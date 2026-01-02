@@ -14,10 +14,13 @@
 - Developed several innovative full-stack applications.
 - Smart India Hackthon Finalist.
 - Looking forward to learn and collaborate on **Cloud-native Projects**.
+</br>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 #### Programming Languages
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascipt" title="javascipt" width="30" height="30"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" title="cpp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" title="c" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" title="java8" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascipt" title="javascipt" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" title="cpp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" title="c" width="40" height="40"/> 
 
+#### Frontend Stack
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="c" title="c" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="c" title="c" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/53833680/72835656-0629b380-3c83-11ea-919e-82c7aad75e4e.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="c" title="c" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="c" title="c" width="40" height="40"/> 
