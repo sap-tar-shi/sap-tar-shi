@@ -12,7 +12,7 @@
 - Delivering integration solutions as a Workday Technical Consultant for over 2 years.
 - Developed several innovative full-stack applications.
 - Smart India Hackthon Finalist.
-- Looking forward to learn and collaborate on **Cloud-native Projects**.
+- Looking forward to learn and collaborate on **Cloud-native Projects**. 
 </br>
 
 <!-- Languages and Tools Section -->
